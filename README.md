@@ -1,4 +1,4 @@
-# CoreUI Free React Admin Template
+# User Managament ReactJS
 
 
 ### Installation
