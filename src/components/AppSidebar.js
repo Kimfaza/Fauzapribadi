@@ -19,7 +19,6 @@ import img from '../assets/images/avatars/logo.png'
 
 
 
-
 // sidebar nav config
 import navigation from '../_nav'
 

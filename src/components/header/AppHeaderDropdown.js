@@ -11,10 +11,8 @@ import {
 } from '@coreui/react'
 import {
   cilBell,
-  cilCreditCard,
   cilCommentSquare,
   cilEnvelopeOpen,
-  cilFile,
   cilLockLocked,
   cilSettings,
   cilTask,
@@ -61,7 +59,7 @@ const AppHeaderDropdown = () => {
           </CBadge>
         </CDropdownItem>
 
-        <CDropdownHeader className="bg-body-secondary fw-semibold my-2">Settings</CDropdownHeader>
+        {/* <CDropdownHeader className="bg-body-secondary fw-semibold my-2">Settings</CDropdownHeader> */}
         <CDropdownItem href="#">
           <CIcon icon={cilUser} className="me-2" />
           Profile
